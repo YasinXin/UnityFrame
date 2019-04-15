@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: jiao256
+  m_Shader: {fileID: 4800000, guid: 31d5253fb86c4d14b9ada7a49e196b34, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: <noninit>
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cubemap
+      second:
+        m_Texture: {fileID: 8900000, guid: 0948da9ca308539479acdf7c783d943b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: <noninit>
+      second: 0
+    - first:
+        name: _BaseColor
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.87
+    - first:
+        name: _Metallic
+      second: 0.852
+    - first:
+        name: _Occlusion
+      second: 0.5
+    - first:
+        name: _ReflAmount
+      second: 0.3
+    - first:
+        name: _offset_X
+      second: 0
+    - first:
+        name: _offset_Y
+      second: 0
+    - first:
+        name: _offset_Z
+      second: 0
+    m_Colors:
+    - first:
+        name: <noninit>
+      second: {r: 0, g: 2.018597, b: 1e-45, a: 38.163067}
+    - first:
+        name: _MainTint
+      second: {r: 0.16078432, g: 0.16078432, b: 0.16078432, a: 1}
